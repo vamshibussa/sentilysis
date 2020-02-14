@@ -30,6 +30,6 @@ Installation and Usage
 
 Developers
 ------------------
-* Vamshi B.
+* Vamshi Bussa.
 * Sushmitha T.
 * Harichandana Y.
